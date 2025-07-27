@@ -1,0 +1,22 @@
+# Easy SQL Practice – DataLemur Questions
+
+- [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) — `#Twitter`  
+- [Data Science Skills](https://datalemur.com/questions/matching-skills) — `#LinkedIn`  
+- [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) — `#Facebook`  
+- [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) — `#Tesla`  
+- [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) — `#NYTimes`  
+- [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) — `#Facebook`  
+- [Teams Power Users](https://datalemur.com/questions/teams-power-users) — `#Microsoft`  
+- [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) — `#LinkedIn`  
+- [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) — `#Robinhood`  
+- [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) — `#Amazon`  
+- [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) — `#FAANG`  
+- [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) — `#Facebook`  
+- [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) — `#TikTok`  
+- [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) — `#IBM`  
+- [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) — `#JPMorgan`  
+- [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) — `#Alibaba`  
+- [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) — `#CVSHealth`  
+- [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) — `#CVSHealth`  
+- [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) — `#CVSHealth`  
+- [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) — `#UnitedHealth`
