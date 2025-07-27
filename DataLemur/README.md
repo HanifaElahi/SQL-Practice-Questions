@@ -1,22 +1,42 @@
 # Easy SQL Practice – DataLemur Questions
 
-- [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) — `#Twitter`  
-- [Data Science Skills](https://datalemur.com/questions/matching-skills) — `#LinkedIn`  
-- [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) — `#Facebook`  
-- [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) — `#Tesla`  
-- [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) — `#NYTimes`  
-- [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) — `#Facebook`  
-- [Teams Power Users](https://datalemur.com/questions/teams-power-users) — `#Microsoft`  
-- [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) — `#LinkedIn`  
-- [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) — `#Robinhood`  
-- [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) — `#Amazon`  
-- [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) — `#FAANG`  
-- [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) — `#Facebook`  
-- [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) — `#TikTok`  
-- [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) — `#IBM`  
-- [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) — `#JPMorgan`  
-- [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) — `#Alibaba`  
-- [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) — `#CVSHealth`  
-- [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) — `#CVSHealth`  
-- [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) — `#CVSHealth`  
+- [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) — `#Twitter`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/histogram_of_tweets.sql)
+- [Data Science Skills](https://datalemur.com/questions/matching-skills) — `#LinkedIn`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/data_science_skills.sql)
+- [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) — `#Facebook`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/page_with_no_likes.sql)
+- [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) — `#Tesla`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/unfinished_parts.sql)
+- [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) — `#NYTimes`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/laptop_vs_mobile_viewership.sql) 
+- [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) — `#Facebook`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/average_post_hiatus_part_one.sql)
+- [Teams Power Users](https://datalemur.com/questions/teams-power-users) — `#Microsoft`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/team_power_users.sql)
+- [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) — `#LinkedIn`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/duplicate_job_listings.sql)
+- [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) — `#Robinhood`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/cities_with_completed_trades.sql)
+- [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) — `#Amazon`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/average_review_ratings.sql) 
+- [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) — `#FAANG`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/well_paid_employees.sql)
+- [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) — `#Facebook`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/app_click_through_rate.sql)
+- [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) — `#TikTok`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/second_day_confirmation.sql)
+- [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) — `#IBM`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/ibm_db2_product_analytics.sql)
+- [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) — `#JPMorgan`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/cards_issued_difference.sql)
+- [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) — `#Alibaba`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/compressed_mean.sql) 
+- [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) — `#CVSHealth`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_one.sql)
+- [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) — `#CVSHealth`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_two.sql) 
+- [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) — `#CVSHealth`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_three.sql)
 - [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) — `#UnitedHealth`
+    - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/patient_support_analysis_part_one.sql)
