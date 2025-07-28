@@ -1,4 +1,4 @@
-# Easy SQL Practice – DataLemur Questions
+# Easy 
 
 - [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) — `#Twitter`
     - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/histogram_of_tweets.sql)
