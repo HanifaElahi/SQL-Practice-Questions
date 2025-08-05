@@ -40,3 +40,41 @@
     - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_three.sql)
 - [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) — `#UnitedHealth`
     - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/patient_support_analysis_part_one.sql)
+
+# Medium
+
+- [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) — `#Uber`
+    - [Solution]()     
+- [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) — `#FAANG`
+    - [Solution]()     
+- [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) — `#Snapchat`
+    - [Solution]()     
+- [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) — `#Twitter`
+    - [Solution]()     
+- [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) — `#Amazon`
+    - [Solution]()     
+- [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) — `#FAANG`
+    - [Solution]()
+- [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) — `#TikTok`
+    - [Solution]()     
+- [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) — `#Microsoft`
+    - [Solution]()     
+- [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) — `#Google`
+    - [Solution]()     
+- [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) — `#Zomato`
+    - [Solution]()     
+- [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) — `#Bloomberg`
+    - [Solution]()     
+- [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) — `#Amazon`
+    - [Solution]()     
+- [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) — `#Walmart`
+    - [Solution]()     
+- [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) — `#Alibaba`
+    - [Solution]()     
+- [Card Launch Success](https://datalemur.com/questions/card-launch-success) — `#JPMorgan`
+    - [Solution]()     
+- [International Call Percentage](https://datalemur.com/questions/international-call-percentage) — `#Verizon`
+    - [Solution]()     
+- [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) — `#UnitedHealth`
+    - [Solution]()
+ 
