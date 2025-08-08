@@ -31,6 +31,20 @@ Welcome! This repository features a curated set of SQL questions along with deta
 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | CVS Health | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_three.sql) |
 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | UnitedHealth | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/patient_support_analysis_part_one.sql) |
 
+| Problem                                                                                               | Solution                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Costco Rotisserie Loss](https://www.analystbuilder.com/questions/costco-rotisserie-loss-kkCDh)       | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/costco_rotisserie_loss.sql)    |
+| [Perfect Data Analyst](https://www.analystbuilder.com/questions/perfect-data-analyst-GMFmx)           | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/perfect_data_analyst.sql)      |
+| [Car Failure](https://www.analystbuilder.com/questions/car-failure-TUsTW)                             | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/car_failure.sql)               |
+| [Electric Bike Replacement](https://www.analystbuilder.com/questions/electric-bike-replacement-ZaFie) | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/electric_bike_replacement.sql) |
+| [On The Way Out](https://www.analystbuilder.com/questions/on-the-way-out-LGNoQ)                       | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/on_the_way_out.sql)            |
+| [Chocolate](https://www.analystbuilder.com/questions/chocolate-vPiUY)                                 | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/chocolate.sql)                 |
+| [Heart Attack Risk](https://www.analystbuilder.com/questions/heart-attack-risk-FKfdn)                 | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/heart_attack_risk.sql)         |
+| [Apply Discount](https://www.analystbuilder.com/questions/apply-discount-RdWhb)                       | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/apply_discount.sql)            |
+| [Million Dollar Store](https://www.analystbuilder.com/questions/million-dollar-store-ARdQa)           | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/million_dollar_store.sql)      |
+| [Sandwich Generation](https://www.analystbuilder.com/questions/sandwich-generation-excIi)             | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/sandwich_generation.sql)       |
+| [Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)                           | [View Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/tesla_models.sql)              |
+ 
 ---
 
 ## 🔁 Medium-Level Questions
