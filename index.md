@@ -6,7 +6,7 @@ Welcome! This repository features a curated set of SQL questions along with deta
 
 ## 🐣 Easy-Level Questions
 
-### 🔹 DataLemur – Easy
+### 🔹 DataLemur 
 
 | Problem | Company/Platform | Solution |
 |--------|------------------|----------|
@@ -30,6 +30,8 @@ Welcome! This repository features a curated set of SQL questions along with deta
 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | CVS Health | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_two.sql) |
 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | CVS Health | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/pharmacy_analytics_part_three.sql) |
 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | UnitedHealth | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/DataLemur/Easy/patient_support_analysis_part_one.sql) |
+
+### 🔹 Analystbuilder.
 
 | Problem                                                                                               | Solution                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
