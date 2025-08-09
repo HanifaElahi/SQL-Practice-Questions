@@ -22,3 +22,32 @@
   - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/sandwich_generation.sql)
 - [Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
   - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Easy/tesla_models.sql)
+
+# Medium
+
+- [Shrink-flation](https://www.analystbuilder.com/questions/shrink-flation-ohNJw)
+    - [Solution]()
+- [TMI (Too Much Information)](https://www.analystbuilder.com/questions/tmi-too-much-information-VyNhZ)
+    - [Solution]()
+- [Separation](https://www.analystbuilder.com/questions/separation-DbHMu)
+    - [Solution]()
+- [Tech Layoffs](https://www.analystbuilder.com/questions/tech-layoffs-CpLXE)
+    - [Solution]()
+- [Kroger's Members](https://www.analystbuilder.com/questions/krogers-members-FjyKN)
+    - [Solution]()
+- [Food Divides Us](https://www.analystbuilder.com/questions/food-divides-us-GvhLL)
+    - [Solution]()
+- [Direct Reports](https://www.analystbuilder.com/questions/direct-reports-qQoVA)
+    - [Solution]()
+- [Bike Price](https://www.analystbuilder.com/questions/bike-price-zKcOR)
+    - [Solution]()
+- [Media Addicts](https://www.analystbuilder.com/questions/media-addicts-deISZ)
+    - [Solution]()
+- [Company Wide Increase](https://www.analystbuilder.com/questions/company-wide-increase-TytwW)
+    - [Solution]()
+- [LinkedIn Famous](https://www.analystbuilder.com/questions/linkedin-famous-oQMdb)
+    - [Solution]()
+- [Senior Citizen Discount](https://www.analystbuilder.com/questions/senior-citizen-discount-fRxVJ)
+    - [Solution]()
+ 
+
