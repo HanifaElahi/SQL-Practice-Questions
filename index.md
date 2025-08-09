@@ -51,7 +51,22 @@ Welcome! This repository features a curated set of SQL questions along with deta
 
 ## 🔁 Medium-Level Questions
 
-Coming soon...
+### 🔹 Analystbuilder.
+
+| Problem                                                                                              | Solution                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Shrink-flation](https://www.analystbuilder.com/questions/shrink-flation-ohNJw)                      | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/shrink_flation.sql)          |
+| [TMI (Too Much Information)](https://www.analystbuilder.com/questions/tmi-too-much-information-VyNhZ) | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/TMI_too_much_information.sql)|
+| [Separation](https://www.analystbuilder.com/questions/separation-DbHMu)                              | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/separation.sql)              |
+| [Tech Layoffs](https://www.analystbuilder.com/questions/tech-layoffs-CpLXE)                          | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/tech_layoffs.sql)            |
+| [Kroger's Members](https://www.analystbuilder.com/questions/krogers-members-FjyKN)                   | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/krogers_members.sql)         |
+| [Food Divides Us](https://www.analystbuilder.com/questions/food-divides-us-GvhLL)                    | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/food_divides_us.sql)         |
+| [Direct Reports](https://www.analystbuilder.com/questions/direct-reports-qQoVA)                      | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/direct_reports.sql)          |
+| [Bike Price](https://www.analystbuilder.com/questions/bike-price-zKcOR)                              | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/bike_price.sql)              |
+| [Media Addicts](https://www.analystbuilder.com/questions/media-addicts-deISZ)                        | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/media_addicts.sql)           |
+| [Company Wide Increase](https://www.analystbuilder.com/questions/company-wide-increase-TytwW)        | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/company_wide_increase.sql)   |
+| [LinkedIn Famous](https://www.analystbuilder.com/questions/linkedin-famous-oQMdb)                    | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/linkedIn_famous.sql)         |
+| [Senior Citizen Discount](https://www.analystbuilder.com/questions/senior-citizen-discount-fRxVJ)    | [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/senior_citizen_discount.sql) |
 
 ---
 
