@@ -50,4 +50,14 @@
 - [Senior Citizen Discount](https://www.analystbuilder.com/questions/senior-citizen-discount-fRxVJ)
     - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Medium/senior_citizen_discount.sql)
  
+# Hard
 
+- [Marketing Spend](https://www.analystbuilder.com/questions/marketing-spend-mrTJL)
+  - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Hard/marketing_spend.sql)
+- [Kelly's 3rd Purchase](https://www.analystbuilder.com/questions/kellys-3rd-purchase-kFaIE)
+  - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Hard/kellys_third_purchase.sql)
+- [Cake vs Pie](https://www.analystbuilder.com/questions/cake-vs-pie-rSDbF)
+  - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Hard/cake_vs_pie.sql)
+- [Temperature Fluctuations](https://www.analystbuilder.com/questions/temperature-fluctuations-ftFQu)
+  - [Solution](https://github.com/HanifaElahi/SQL-Practice-Questions/blob/main/Analyst%20Builder/Hard/temperature_fluctuations.sql)
+    
